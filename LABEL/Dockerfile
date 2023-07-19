@@ -1,3 +1,4 @@
 FROM almalinux:8
 LABEL COURSE=TERRAFORM \
-      TRAINEE=TRIVENI
+      TRAINEE=TRIVENI \
+      AUTHOR="Triveni"
